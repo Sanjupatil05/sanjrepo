@@ -1,2 +1,3 @@
 # sanjrepo
-this is my first git repositories
+this is my first git repositories.
+author-Sanjeev
